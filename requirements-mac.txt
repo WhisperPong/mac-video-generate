@@ -1,0 +1,2 @@
+# 固定 MacMax 验证过的 PyTorch；前端版本遵循 ComfyUI/requirements.txt。
+torch==2.14.0
